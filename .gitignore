@@ -2,4 +2,4 @@
 build/
 .classpath
 .project
-WebContent//**/*.class
+WebContent/**/*.class
